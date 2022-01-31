@@ -5,7 +5,7 @@ html {
     font-weight: 400;
     line-height: 1.5;
     -webkit-text-size-adjust: 100%;
-    background: #fff;
+    background: darkslategray ;
     color: #666
 }
 
@@ -8175,6 +8175,25 @@ iframe[data-uk-cover], iframe[uk-cover] {
         page-break-after: avoid
     }
 }
-h3{
+
+h3 {
     color: #0f7ae5;
+}
+#titulo1{
+    text-align: center;
+    font-family: "Lucida Handwriting";
+    font-size: xxx-large;
+    color: palegreen;
+}
+#h4{
+    color: #1a1a1a;
+}
+#amarillo{
+    color: yellow;
+}
+#azul{
+    color:#00b4f5;
+}
+#marron{
+    color:#b47624;
 }
